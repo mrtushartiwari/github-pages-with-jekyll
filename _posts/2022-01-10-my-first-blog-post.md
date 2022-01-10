@@ -1,6 +1,7 @@
-
+---
 title: First Blog on Github pages
-date: 2022-01-110
+date: 2022-01-11
+---
 
 
 Hello ,there
