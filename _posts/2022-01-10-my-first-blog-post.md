@@ -1,5 +1,5 @@
 ---
-title: First Blog on Github pages
+title: "First Blog on Github pages"
 date: 2022-01-11
 ---
 
